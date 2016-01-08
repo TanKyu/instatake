@@ -6,8 +6,8 @@
 // Put your username and some cors proxies here
 //
 var config = {
-  username: 'your_user_here',
-  limit: 300,
+  username: 'dejan_nicole',
+  limit: 3000,
   proxies: ['url1', 'url2', 'url3']
 };
 
